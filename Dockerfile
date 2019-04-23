@@ -1,3 +1,4 @@
+##TEST##
 FROM node:8-stretch
 MAINTAINER Kitware, Inc. <kitware@kitware.com>
 
